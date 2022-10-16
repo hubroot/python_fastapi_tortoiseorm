@@ -1,0 +1,5 @@
+fastapi
+tortoise-orm
+uvicorn[standard]
+tortoise-orm[aiomysql]
+requests
